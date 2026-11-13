@@ -21,7 +21,7 @@
 
 Sou estudante do **9º período de Engenharia da Computação** e formado como **técnico em Desenvolvimento de Sistemas**. Tenho conhecimentos em **Python, C, C++ e PostgreSQL** e busco aplicar o que aprendo na construção de soluções úteis.
 
-Atualmente, desenvolvo um projeto de gestão para oficinas com recursos de inteligência artificial e participo de uma **iniciação científica no IFMS — Campus Três Lagoas**, voltada ao aprimoramento de uma estação meteorológica automática baseada em Arduino.
+Atualmente, desenvolvo um projeto de gestão para oficinas com recursos de inteligência artificial e participo de uma **iniciação científica no IFMS — Campus Três Lagoas**, como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, voltada ao aprimoramento de uma estação meteorológica automática de baixo custo baseada em Arduino.
 
 Tenho interesse em **desenvolvimento de software, backend, bancos de dados, inteligência artificial e integração entre hardware e software**. Estou em busca de uma **oportunidade de estágio** para contribuir com projetos reais e continuar evoluindo profissionalmente.
 
@@ -69,7 +69,7 @@ Sistema web de gestão financeira e operacional voltado a oficinas de motociclet
 
 **IFMS — Campus Três Lagoas | Projeto acadêmico**
 
-Participação em projeto de iniciação científica dedicado ao **aprimoramento de uma estação meteorológica automática baseada em Arduino**, com estudos sobre **monitoramento climático** e aplicações de tecnologia na observação de dados ambientais.
+Como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, participo de projeto de iniciação científica dedicado ao **aprimoramento de uma estação meteorológica automática de baixo custo baseada em Arduino**, com estudos sobre **monitoramento climático** e aplicações de tecnologia na observação de dados ambientais.
 
 **Áreas relacionadas:** `Arduino` · `Monitoramento climático` · `Sistemas embarcados` · `Pesquisa aplicada`
 
