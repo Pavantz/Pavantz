@@ -75,7 +75,7 @@ Como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, participo de pro
 
 ## 🎯 Objetivo profissional
 
-Busco uma **vaga de estágio em tecnologia ou Engenharia da Computação**, especialmente em atividades ligadas a desenvolvimento de software, backend, dados e IA aplicada. Tenho interesse em oportunidades **presenciais em Três Lagoas (MS)** ou **remotas**.
+Busco uma oportunidade para entrar no mercado de trabalho, especialmente em atividades ligadas a desenvolvimento de software, backend, dados e IA aplicada. Tenho interesse em oportunidades **presenciais em Três Lagoas (MS)** ou **remotas**.
 
 ## 📫 Vamos conversar?
 
