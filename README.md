@@ -34,7 +34,7 @@ Tenho interesse em **desenvolvimento de software, backend, bancos de dados, inte
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tecnologias que utilizo ou estudo em projetos
+### Tecnologias
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@ Tenho interesse em **desenvolvimento de software, backend, bancos de dados, inte
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**Outros interesses e conhecimentos:** lógica de programação, engenharia de prompts, uso de ferramentas de IA, APIs e automação de processos.
+**Outros conhecimentos:** lógica de programação, engenharia de prompts, uso de ferramentas de IA, APIs e automação de processos.
 
 ## 🚀 Projetos em destaque
 
