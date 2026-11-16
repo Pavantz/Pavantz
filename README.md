@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante do **9º período de Engenharia da Computação** e formado como **técnico em Desenvolvimento de Sistemas**. Tenho conhecimentos em **Python, C, C++ e PostgreSQL** e busco aplicar o que aprendo na construção de soluções úteis.
+Sou estudante do **9º período de Engenharia da Computação** e formado como **técnico em Desenvolvimento de Sistemas**. Tenho conhecimentos em **Python, C, C++ e PostgreSQL, Engenharia de IA, LLMs, RAG e Agentes** e busco aplicar o que aprendo na construção de soluções úteis.
 
 Atualmente, desenvolvo um projeto de gestão para oficinas com recursos de inteligência artificial e participo de uma **iniciação científica no IFMS — Campus Três Lagoas**, como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, voltada ao aprimoramento de uma estação meteorológica automática de baixo custo baseada em Arduino.
 
