@@ -69,7 +69,7 @@ Sistema web de gestão financeira e operacional voltado a oficinas de motociclet
 
 **IFMS — Campus Três Lagoas | Projeto acadêmico**
 
-Como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, participo de projeto de iniciação científica dedicado ao **aprimoramento de uma estação meteorológica automática de baixo custo baseada em Arduino**, com estudos sobre **monitoramento climático** e aplicações de tecnologia na observação de dados ambientais.
+Como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, participo de uma iniciação científica dedicada ao **aprimoramento do firmware de uma estação meteorológica automática de baixo custo baseada em Arduino**, com estudos sobre **monitoramento climático** e aplicações de tecnologia na observação de dados ambientais.
 
 **Áreas relacionadas:** `Arduino` · `Monitoramento climático` · `Sistemas embarcados` · `Pesquisa aplicada`
 
