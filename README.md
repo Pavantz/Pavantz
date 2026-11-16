@@ -23,7 +23,7 @@ Sou estudante do **9º período de Engenharia da Computação** e formado como *
 
 Atualmente, desenvolvo um projeto de gestão para oficinas com recursos de inteligência artificial e participo de uma **iniciação científica no IFMS — Campus Três Lagoas**, como membro do **LAPA (Laboratório de Pesquisas Ambientais)**, voltada ao aprimoramento de uma estação meteorológica automática de baixo custo baseada em Arduino.
 
-Tenho interesse em **desenvolvimento de software, backend, bancos de dados, inteligência artificial e integração entre hardware e software**. Estou em busca de uma **oportunidade de estágio** para contribuir com projetos reais e continuar evoluindo profissionalmente.
+Tenho interesse em **desenvolvimento de software, backend, bancos de dados, inteligência artificial e integração entre hardware e software**. Estou em busca de uma **oportunidade** para contribuir com projetos reais e continuar evoluindo profissionalmente.
 
 ## 🛠️ Competências e tecnologias
 
